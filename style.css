@@ -1,0 +1,19 @@
+.container {
+  width: 750px;
+}
+
+.row {
+  background-color: lightblue;
+  padding: 100px;
+}
+
+.footer {
+  padding-top: 100px;
+
+}
+
+.img-rounded {
+  float: left;
+  padding:5px;
+
+}
