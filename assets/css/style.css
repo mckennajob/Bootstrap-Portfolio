@@ -1,5 +1,5 @@
 .container {
-  width: 750px;
+  width: 100%;
 }
 
 .row {
@@ -15,5 +15,13 @@
 .img-rounded {
   float: left;
   padding:5px;
+  height: auto;
+  width: 50%;
+  margin: 7px;
 
+}
+
+.apc {
+  float: right;
+  padding-right: 150px;
 }
